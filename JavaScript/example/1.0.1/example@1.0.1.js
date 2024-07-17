@@ -26,11 +26,11 @@ const test1 = function(text){
 
 
 // // case3: no args input, return Class
-class Test3{
-    out(test){
-        return test;
-    }
-}
+// class Test3{
+//     out(test){
+//         return test;
+//     }
+// }
 
 
 
